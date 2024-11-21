@@ -1,4 +1,4 @@
-# python-project
+
 Python Project:-Expense Splitter
 #Group Number 12
 
